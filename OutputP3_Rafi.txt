@@ -1,0 +1,20 @@
+===========================
+ IDENTITAS MAHASISWA
+===========================
+Masukan Nama Mahasiswa: Ahmad Rafi Ansori
+Masukan Nim:26241084
+Masukan Program Studi:PTI
+Masukan 2 Digit Trakhir NIM:84
+
+========================
+ HASIL PROGRAM 
+========================
+Nama :  Ahmad Rafi Ansori
+Nim : 26241084
+Prodi : PTI
+2 Digit NIM : 84
+Tipe Data Nama : <class 'str'>
+Tipe Data Nim : <class 'int'>
+Tipe Data Prodi : <class 'str'>
+Tipe Data 2 Digit NIM : <class 'int'>
+==========================
